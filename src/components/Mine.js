@@ -17,23 +17,22 @@ const styles = StyleSheet.create({
     container: {
         alignItems: 'center',
         justifyContent: 'center',
-        
     },
-
+    
     coreMine: {
-        height: 8,
-        width: 8,
-        borderRadius: 6,
+        height: 14,
+        width: 14,
+        borderRadius: 10,
         backgroundColor: 'black',
         alignItems: 'center',
         justifyContent: 'center',
     },
-
+    
     line: {
         position: 'absolute',
         height: 3,
-        width: 15,
+        width: 20,
         borderRadius: 3,
         backgroundColor: 'black',
-    },
+    }
 });
